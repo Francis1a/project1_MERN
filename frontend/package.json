@@ -1,6 +1,6 @@
 {
   
-  "proxy": "https://workout-data.onrender.com:10000",
+  "proxy": "https://workout-data.onrender.com",
   
   "name": "frontend",
   
